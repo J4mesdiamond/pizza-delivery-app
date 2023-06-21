@@ -1,0 +1,15 @@
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\bin\Debug\net6.0\pizzaprolject.exe
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\bin\Debug\net6.0\pizzaprolject.deps.json
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\bin\Debug\net6.0\pizzaprolject.runtimeconfig.json
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\bin\Debug\net6.0\pizzaprolject.dll
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\bin\Debug\net6.0\ref\pizzaprolject.dll
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\bin\Debug\net6.0\pizzaprolject.pdb
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\obj\Debug\net6.0\pizzaprolject.csproj.AssemblyReference.cache
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\obj\Debug\net6.0\pizzaprolject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\obj\Debug\net6.0\pizzaprolject.AssemblyInfoInputs.cache
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\obj\Debug\net6.0\pizzaprolject.AssemblyInfo.cs
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\obj\Debug\net6.0\pizzaprolject.csproj.CoreCompileInputs.cache
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\obj\Debug\net6.0\pizzaprolject.dll
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\obj\Debug\net6.0\ref\pizzaprolject.dll
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\obj\Debug\net6.0\pizzaprolject.pdb
+C:\Users\XIXLIVES DEV\source\repos\pizzaprolject\pizzaprolject\obj\Debug\net6.0\pizzaprolject.genruntimeconfig.cache
